@@ -99,6 +99,7 @@
     .addButton:hover {
       background-color: #bbb;
     }
+
     #clear-list{
       width: 30%;
       font-weight: bold;
